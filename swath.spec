@@ -2,7 +2,7 @@ Summary:	Smart Word Analysis for THai
 Summary(pl.UTF-8):	Inteligentna analiza słów dla pisma tajskiego
 Name:		swath
 Version:	0.6.1
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Text
 Source0:	https://linux.thai.net/pub/thailinux/software/swath/%{name}-%{version}.tar.xz
